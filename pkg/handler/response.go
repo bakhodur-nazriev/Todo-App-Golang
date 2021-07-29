@@ -5,7 +5,7 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-type test struct {
+type error struct {
 	Message string `json:"message"`
 }
 
